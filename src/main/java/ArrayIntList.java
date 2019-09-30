@@ -85,5 +85,8 @@ public class ArrayIntList {
 //        System.out.println(foo.get(4));
 //        System.out.println(foo.get(15));
 //        System.out.println(foo.get(20));
+        System.out.println(foo.get(4));
+        System.out.println(foo.get(15));
+        System.out.println(foo.get(20));
     }
 }
